@@ -1,0 +1,5 @@
+class AppStrings {
+  //Signup screen
+
+
+}
